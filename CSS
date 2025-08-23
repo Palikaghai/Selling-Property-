@@ -3,17 +3,7 @@
     
   }
   
-  .service img {
-    height: 20rem;
-    max-width: 600px;
-    margin-bottom: 50px;
-  }
-  
-  .service h3 {
-    font-size: 1.5em;
-    margin: 0 0 10px;
-  }
-  
+  .service 
   .service p {
     font-size: 3em;
     margin:0;
